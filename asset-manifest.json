@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Snooker/static/css/main.c207a278.css",
+    "main.js": "/Snooker/static/js/main.d2343ced.js",
+    "static/js/787.2f89ed03.chunk.js": "/Snooker/static/js/787.2f89ed03.chunk.js",
+    "static/media/news3.png": "/Snooker/static/media/news3.6dbcbbfa7ce3ffc03716.png",
+    "static/media/1.jpeg": "/Snooker/static/media/1.1e82af12d6f6811ba283.jpeg",
+    "static/media/news2.png": "/Snooker/static/media/news2.f7905f1a1df94894c44e.png",
+    "static/media/news1.png": "/Snooker/static/media/news1.9890952234c32fd67e80.png",
+    "static/media/0.jpg": "/Snooker/static/media/0.bebd20e36fe67068cc04.jpg",
+    "static/media/3.jpeg": "/Snooker/static/media/3.fe34ca8c167e47261df6.jpeg",
+    "static/media/snooker.jpeg": "/Snooker/static/media/snooker.99a8f0045b6ab6673c45.jpeg",
+    "static/media/snooker-removebg-preview.png": "/Snooker/static/media/snooker-removebg-preview.f1b90d08ffdf271a6904.png",
+    "static/media/stick.png": "/Snooker/static/media/stick.b45f25f4bb096f6aebb3.png",
+    "index.html": "/Snooker/index.html",
+    "main.c207a278.css.map": "/Snooker/static/css/main.c207a278.css.map",
+    "main.d2343ced.js.map": "/Snooker/static/js/main.d2343ced.js.map",
+    "787.2f89ed03.chunk.js.map": "/Snooker/static/js/787.2f89ed03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c207a278.css",
+    "static/js/main.d2343ced.js"
+  ]
+}
